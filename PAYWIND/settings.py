@@ -101,11 +101,11 @@ WSGI_APPLICATION = 'PAYWIND.wsgi.application'
 DATABASES ={
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Paywind',
-        'USER': 'root',
-        'PASSWORD': 'ERP@123',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'NAME': '*',
+        'USER': '*',
+        'PASSWORD': '*',
+        'HOST': '*',
+        'PORT': '*',
     }
 }
 
