@@ -1,4 +1,4 @@
-# 💸 Paytm Clone
+
 
 A simple Paytm-like digital wallet application
 
